@@ -1,2 +1,2 @@
 # sagem_affa2
-sterowanie wyswietlaczem w renault
+sterowanie wyswietlaczem AFFA2++ w renault
